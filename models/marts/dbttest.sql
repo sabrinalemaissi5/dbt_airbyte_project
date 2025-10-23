@@ -4,5 +4,5 @@
 
 SELECT
    
-    "Id", fax, its, nif, nim
+    "Id", Fax
 FROM public."unites"
