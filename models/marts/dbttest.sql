@@ -4,5 +4,6 @@
 
 SELECT
    
-    Numero_PV as num
+    Numero_PV as num,
+    Exercice_id as id 
 FROM public."facture_avoir"
