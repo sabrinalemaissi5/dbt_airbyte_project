@@ -4,5 +4,5 @@
 
 SELECT
    
-    "Id", Fax
-FROM public."unites"
+    Numero_PV as num
+FROM public."facture_avoir"
